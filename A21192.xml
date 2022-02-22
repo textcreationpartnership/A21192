@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A heavenly hymne to the king of heaven. Presented in a sermon, by Iames Eglesfield, Mr. of Arts in Queenes Colledge ...</title>
+            <author>Eglesfield, James, b. 1601 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21192</idno>
+            <idno type="STC">STC 7545</idno>
+            <idno type="STC">ESTC S114013</idno>
+            <idno type="EEBO-CITATION">99849241</idno>
+            <idno type="PROQUEST">99849241</idno>
+            <idno type="VID">14379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 783:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A heavenly hymne to the king of heaven. Presented in a sermon, by Iames Eglesfield, Mr. of Arts in Queenes Colledge ...</title>
+                  <author>Eglesfield, James, b. 1601 or 2.</author>
+               </titleStmt>
+               <extent>[8], 31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Dawson, for Francis Eglesfield and are to be sold at the signe of the Marigold in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First leaf blank, lacking? Cf. Folger catalogue which gives signatures: A-B C⁴.</note>
+                  <note>Imperfect; upper margins cropped, affecting pagination. Imperfect as filmed; title page too dark, affecting readability.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14379:1"/>
+            <pb facs="tcp:14379:1" rendition="simple:additions"/>
+            <p>A HEAVENLY HYMNE TO THE KING OF HEAVEN.</p>
+            <p>Preſented in a Sermon, by <hi>Iames Eglesfield,</hi> M<hi rend="sup">r</hi>. of Arts in Queenes Colledge in <hi>Oxon</hi> late Vicar of <hi>Chenton</hi> in <hi>Sommerſet.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>Iohn Dawſon,</hi> for <hi>Francis Eglesfield</hi> and are to be ſold at the ſigne of the Marigold in <hi>Pauls</hi> Churchyard. 1640.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:14379:2"/>
+            <pb facs="tcp:14379:2"/>
+            <head>TO THE RIGHT HONOVRABLE DAVID Lord BARRY Earle BARRIMORE.</head>
+            <opener>
+               <salute>Right Honourable.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He deepe ob<g ref="char:EOLhyphen"/>ligations that your Honors many favours have already bound mee in, and my gratefull in<g ref="char:EOLhyphen"/>clination to an expreſsi<g ref="char:EOLhyphen"/>on of them, engage mee
+<pb facs="tcp:14379:3"/>to the tender of this humble preſent. It is not cloathed with any abili<g ref="char:EOLhyphen"/>ties worthy your eye, but if you pleaſe to cure the defects by a noble accep<g ref="char:EOLhyphen"/>tation, you make mee e<g ref="char:EOLhyphen"/>ver as much yours as this was mine, before I preſum'd to owne it on ſo honourable a Pa<g ref="char:EOLhyphen"/>tron. Pray take my weake labours and with it mee; I have my aime if it bring to your honor
+<pb facs="tcp:14379:3"/>as much comfort, as it carryes from me zeale; and God grant that you may gleane ſomething out of this ſhort Ser<g ref="char:EOLhyphen"/>mon that may be as high as my deſires for your ſalvation. Let me ſay to this as the Poet ſaid to his
+<q>Hei mihi quod domino non licet ire tue.</q> But there is no obſcu<g ref="char:EOLhyphen"/>rity, no dangers, or ad<g ref="char:EOLhyphen"/>verſity, that ſhall bee able to reſtraine my pray<g ref="char:EOLunhyphen"/>ers
+<pb facs="tcp:14379:4"/>for multiplying bleſ<g ref="char:EOLhyphen"/>ſings on your honour in all things externall, internall, eternall, <hi>That you may doe all things well,</hi> to the glory of God, benefit of your Coun<g ref="char:EOLhyphen"/>try, comfort of your ſoule, and honour of your name, as ſhall ſtill befit</p>
+            <closer>
+               <signed>Your Lordſhips hum<g ref="char:EOLhyphen"/>bleſt Servant, <hi>IAMES EGLESFIELD.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:14379:4" rendition="simple:additions"/>
+            <head>A HEAVENLY HYMNE TO THE KING OF HEA<g ref="char:EOLhyphen"/>VEN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MAR. 7.37.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Fecit omnia bene.</hi>
+                  </p>
+                  <p>He hath done all things well.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He finger of the Deity in the manhood of Chriſt, by a word powerfull, and a pow<g ref="char:EOLhyphen"/>er wonderfull, drew the world in love and admira<g ref="char:EOLhyphen"/>tion after him; his Doctrine undenia<g ref="char:EOLhyphen"/>ble, his life unblameable, his words, won<g ref="char:EOLhyphen"/>ders unculpable; all conſpiring in one,
+<pb n="2" facs="tcp:14379:5"/>with united force, forced all with their tongues as with trumpets, to ſound his fame in this famous confeſſion; ſutable to none but him alone who was the di<g ref="char:EOLhyphen"/>vine Omnipotency, <hi>Fecit omnia benè.</hi> And therefore the Evangeliſt premiſeth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, his words, and his works, as the impulſive cauſes preſident and withall annexeth <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> admirati<g ref="char:EOLhyphen"/>on, and commendation as the effect con<g ref="char:EOLhyphen"/>comitant, whilſt the Saviour of the world, <hi>voce operante, et opere vocali</hi> by words working and workes ſpeaking drew from an earthly multitude this hea<g ref="char:EOLhyphen"/>venly Hymn to the King of heaven <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Pointing (as it ſeemeth by the judgement of divers as well the ancient as moderne Interpretors) unto Chriſt, as the ſame Creator, that in the infancy of the world beheld (reveiw<g ref="char:EOLhyphen"/>ing all his workes) that they were, <hi>valde bona,</hi> and now the Redeemer, <hi>Fecit om<g ref="char:EOLhyphen"/>nia bene.</hi> Each word of my Text favo<g ref="char:EOLhyphen"/>ring that Alluſion <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Non fictor non enti<g ref="char:EOLhyphen"/>um, ſed factor omnium. Fecit,</hi> hee made for hee is <hi>actus purus; fecit omnia,</hi> for hee is <hi>agens omnipotens, fecit omnia benè,</hi> for
+<pb n="3" facs="tcp:14379:5"/>hee is <hi>bonus in Concrete, et bonitas in ab<g ref="char:EOLhyphen"/>ſtracto.</hi> He that is the perfect Vnity, and Vnity of perfection <hi>fecit,</hi> hath done, <hi>a<g ref="char:EOLhyphen"/>gendo quieſcens et quieſcendo agens,</hi> not on<g ref="char:EOLhyphen"/>ly in intention, but in actuall and com<g ref="char:EOLhyphen"/>pleate perfection. Hee hath done all, for he is all effective, producing effects not defects, good not evill, <hi>Entia,</hi> and therefore <hi>bona.</hi> All things being an in<g ref="char:EOLhyphen"/>finite Agent both <hi>extenſive</hi> in the quan<g ref="char:EOLhyphen"/>tity, for he hath done all: and <hi>intenſive</hi> in the qualtity, hee hath done all things well. Oh the height the bredth, and depth of divine power, and powerfull divini<g ref="char:EOLhyphen"/>ty <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able to make the ſwifteſt ſtreame a ſtanding poole, and the moſt vocal tongue of man to ſhrowd it ſelfe in ſilence. Thus having diſcourſed of this Scripture, let it be your bounty to lend a while your patient attention, whiles in a word I ſhall determine the words of this verſe to containe three generall parts.</p>
+            <p>Firſt, the peoples breaking forth into Admiration, in theſe words, <hi>They were a<g ref="char:EOLhyphen"/>ſtoniſhed above meaſure.</hi>
+            </p>
+            <p>Secondly their breaking forth into the higheſt ſtreame of Commendations, <hi>He hath done all things well.</hi>
+            </p>
+            <pb n="4" facs="tcp:14379:6"/>
+            <p> Thirdly, the reaſons, by illuſtration in the inſtances, <hi>Hee hath made the deafe to heare, the blind to ſee, &amp;c.</hi>
+            </p>
+            <p>The Summe of which inference to the immediate premiſes, I take to bee this: In ſpeaking, living and miracles doing, <hi>He hath done all things well.</hi>
+            </p>
+            <p>Herein two principall parts commend themſelves to your conſideration.</p>
+            <list>
+               <item>1. The Agent, <hi>He,</hi>
+               </item>
+               <item>2. The Action, <hi>hath done &amp;c.</hi>
+               </item>
+            </list>
+            <p>The Agent being Chriſt Ieſus, not one<g ref="char:EOLhyphen"/>ly Man but God, of whom alſo our beſt aſcertained knowledge is but <hi>a poſteriore per effectus,</hi> and not <hi>a priori per cauſas, I</hi> will firſt propound the Action, and ther<g ref="char:EOLhyphen"/>by inferre the Agent to bee vnmatcha<g ref="char:EOLhyphen"/>able.</p>
+            <p>In the Action.</p>
+            <p n="1">1. The Matter. <hi>He hath done all things.</hi>
+            </p>
+            <p n="2">2. The Manner. <hi>Hath done all things wel.</hi>
+            </p>
+            <p>The Matter for which the multitude blazed his honour was 2. fold his words and his works. His words both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſo deepe, ſo profound, the greateſt Elephant may ſwimme, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſo perſpicuous and ſhallow that lambs may
+<pb n="5" facs="tcp:14379:6"/>wade. His workes in this place ſpeci<g ref="char:EOLhyphen"/>ally intended Are <hi>Converſationis et Conſervationis.</hi>
+            </p>
+            <p>Of Converſation, for hee lived <hi>Agnus ſine macula, Lilium ſine ſpina, Homo ſine culpa;</hi> and of Conſervation, or Reſtau<g ref="char:EOLhyphen"/>ration, by Miracles; he made the deafe to heare, the dumbe to ſpeake, &amp;c.</p>
+            <p>Chriſt in all his doctrine with a ſu<g ref="char:EOLhyphen"/>perlative reach of wiſedome, tranſcen<g ref="char:EOLhyphen"/>ding all humane ſcience, is neither as that Graecian <hi>Heraclitus</hi> who left his learning in a cloud of obſcurity, inviſible; nor as that fordid <hi>Meſſian</hi> whoſe fatty phraſe (as <hi>Tully</hi> termes it) made his ſpeech vnſa<g ref="char:EOLhyphen"/>uory; but in one and the ſame word he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſo ſweetly matching profoundnes and plainneſſe, <hi>ut habeat in publico vnde par vulos nutriat, et ſervat in ſecreto vnde mentes ſublimum ad<g ref="char:EOLhyphen"/>miratione ſuſpendat,</hi> that outward perſpi<g ref="char:EOLhyphen"/>cuity may bee milke for babes, and in<g ref="char:EOLhyphen"/>ward myſtery may be meate for the ma<g ref="char:EOLhyphen"/>tureſt and ripeſt wits. Therefore Saint <hi>Auguſtine</hi> in his Epiſtle to <hi>Ierome,</hi> pre<g ref="char:EOLhyphen"/>ferreth the worthines of the Goſpell be<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:14379:7"/>the Graecian principles, and ſaith well and wittily, that <hi>Incomparabiliter pulchrior eſt veritas Chriſtianorum quam Helena Graecorum.</hi> Arts and Sciences are but the birth of Mans braine, but here is the Kings daughter the Lady of lear<g ref="char:EOLhyphen"/>ning, at whoſe becke the greateſt and foundeſt Axiomes of humane wiſedome muſt bow chuſing rather to beleeve then diſpute, where divine precepts grounded upon the Rocke Chriſt Ieſus ſurpaſſes all humane knowledge with a 3. fold excel<g ref="char:EOLhyphen"/>lency, Verity, Vnity, Efficacy. Chriſt is not onely true, but truth it ſelfe; without fraud either active that he ſhould deceive, or paſſive that he ſhould be deceived, ther<g ref="char:EOLhyphen"/>fore in contemplation worthy, worthie the Goſpell. The Goſpell of Chriſt being the moſt abſolute <hi>Lesbian</hi> rule whereby we muſt ſquare out all our actions, that wee, as He, may doe all things well. Ac<g ref="char:EOLhyphen"/>cording to that of Saint <hi>Ambroſe, Omne verum eſt à Spiritu ſancto,</hi> for this <hi>vna ve<g ref="char:EOLhyphen"/>ritas</hi> is both <hi>formalis, effectiva, exempla<g ref="char:EOLhyphen"/>ris.</hi> Formally true in its Efficient, from which all Truth floweth; exemplary which muſt be our imitation in which ſteps, whoſoever will not erre muſt
+<pb facs="tcp:14379:7"/>walke. Philoſophers may ſlatter them<g ref="char:EOLhyphen"/>ſelves, but all that they find is loſſe. It was Saint <hi>Pauls</hi> reſolution, I account all the world as dung; having like Owles a glimmering in the night of Nature, but beetle-blind in the day-light of Grace; truſting more to their conjecturall no<g ref="char:EOLhyphen"/>tions, then to the infalible evidence of the Spirit of Truth.</p>
+            <p>The Ethnicks are <hi>in Vmbra,</hi> the Iewes <hi>in nube,</hi> the Chriſtians onely <hi>in luce, per verbum effuſum et infuſum,</hi> outwardly preached and inwardly inſpired, ſo that of the word of Chriſt, as the only divine Philoſopher I may conclude <hi>quod falſum eſt philoſophicum non eſt.</hi> The next is ſo affined to this that it followes of force, if his word bee true then is it one. <hi>Verum et unum convertuntur. Vna eſt dilecta mea.</hi> God is not as man who affects variety to pleaſure, more then unity to profit, himſelfe being the beginning of Eſſence, <hi>Iam.</hi> 1.17. and his word and know<g ref="char:EOLhyphen"/>ledge are both unchangeable, for with him there is no ſhaddow of alteration.</p>
+            <p>Therefore <hi>Varroes</hi> threefold theolo<g ref="char:EOLhyphen"/>gie whereof <hi>Auguſtine</hi> makes mention in <hi>lib.</hi> 6. <hi>de civitrte dei, Fabuloſa ad The<g ref="char:EOLhyphen"/>atrum,
+<pb facs="tcp:14379:8"/>naturalis ad mundum, et Civilis ad Vrbem,</hi> vainly divided, argues but a ly<g ref="char:EOLhyphen"/>ing vanity, departing from the vnity of perfection to the multiplicity of con<g ref="char:EOLhyphen"/>fuſion: but in the words of Chriſt are no idle <hi>Platonicall Ideas, Pythagorean</hi> dreames, or naturall concluſions, but ſu<g ref="char:EOLhyphen"/>pernaturall revelations, and that not <hi>ad urbem,</hi> but <hi>ad orbem, nam bonum eſt diffu<g ref="char:EOLhyphen"/>ſivum.</hi> And yet the ſound and voyce of the Turtle, that goes through the world, agrees in one vni-ſound of the truth; <hi>nam multa candelabra ſed lux vna,</hi> ſaith <hi>Hugo de Arca No<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> One Sunne of truth whoſe beames are fired in all nations, <hi>verbae innumerabilia, et vnicum tantum verbum omne.</hi> This <hi>verum unum &amp; vnicum verbum,</hi> is (ſaith mellefluous <hi>Bernard) non loquax ſed efficax, non ſo<g ref="char:EOLhyphen"/>nans ſed penetrans,</hi> in ſound little in ſub<g ref="char:EOLhyphen"/>ſtance great and admirable: not word in the eare, but ſword in the heart to wound the ſoules of men with a love of their God. And that with a three<g ref="char:EOLhyphen"/>fold grace; ſurpaſſing the grace of hu<g ref="char:EOLhyphen"/>mane diſcourſe in that it is <hi>delicioſum ad ſaporem, ſolidum ad nutrimentum, efficax ad medicinam:</hi> to the taſte delicious as
+<pb n="9" facs="tcp:14379:8"/>the Manna of Angels, and hony of <hi>Canaan</hi> for nutrition ſollid, <hi>eſca animae, panis ſa<g ref="char:EOLhyphen"/>pientiae,</hi> for medicine excellent, <hi>omnes vicioſos ſanare, bonos adjuvare</hi> to the ſicke ſoule a reſtorative conſolation, to the ſound a preſervative inſtruction. The Goſpell cures what nature miſ-guides, the efluence of the word, with the influence of the Spirit leades Chriſts Sheepe from the night of Error to the light of the Truth, from the thrall of ſinne to the throne of Grace; for Chriſt hath not only as <hi>Moſes</hi> and men, a chaire on Earth, but a throne in hea<g ref="char:EOLhyphen"/>ven, and power ouer all people: hee ſpeakes and ſpeedes, making his word to the Elect, the ſavour of life unto life, to draw his Saints from Earth to heaven, from the world to God, <hi>a mun<g ref="char:EOLhyphen"/>do ſenſibili ad mundum intelligibilem,</hi> ther<g ref="char:EOLhyphen"/>fore the people admiring his wiſedome bare record to his word that in his diſ<g ref="char:EOLhyphen"/>pute and diſcourſe, <hi>He had done all things well.</hi> He was not like the Dove with ſilver wings and feathers of Gold, that brought into the Arke of the Church, no<g ref="char:EOLhyphen"/>thing but a leafe in her mouth, but like the true ſpies of <hi>Canaan,</hi> with cluſters
+<pb n="10" facs="tcp:14379:9"/>of Grapes, plenty and abundance of ſub<g ref="char:EOLhyphen"/>ſtantiall doctrine to give men a taſte how pleaſant the Lord is, and how pleaſant the land is that floweth with milke and honey. Thus admirable was that ſweet ſinger of <hi>Iſrael,</hi> that came in humility with a fiſhers phraſe to fiſh for ſoules, <hi>favus diſtillans labijs eius, ſumma gratia ſumma eloquentia,</hi> with fulnes of grace, full of grace were his lips and riches of E<g ref="char:EOLhyphen"/>loquence, for never man ſpake like him, moving the multitude like clouds of wit<g ref="char:EOLhyphen"/>neſſes to confeſſe vnto the world, that he was <hi>Vere propheta Iohn.</hi> 7.40. deceit and guile were not found in his mouth, and <hi>veritas prophetica</hi> in whom all the pro<g ref="char:EOLhyphen"/>miſes of God by the prophets were yea and <hi>Amen,</hi> 1 <hi>Cor.</hi> 1.20. and <hi>ipſa veritas ipſe Propheta</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Ioh.</hi> 14.6. Not onely as <hi>Moſes</hi> a Prophet among his Brethren, <hi>Deut.</hi> 18.17. or as <hi>Iſaiah</hi> a pro<g ref="char:EOLhyphen"/>phet, or as <hi>David</hi> a Prince and a prophet, not onely as <hi>Iohn Baptiſt</hi> the greateſt a<g ref="char:EOLhyphen"/>mong the ſonnes of men, <hi>Mat.</hi> 11. but by the multitude of the ſonnes of men, confeſſed to be the ſacred Sonne of God, the Prince of Prophets, the inſpirer of men and Angels; to whoſe omniſcience
+<pb facs="tcp:14379:9"/>the people and multitude aſcribed the honour of Omnipotence, to doe all, and of eſſentiall goodneſſe to doe all thing well. <hi>Fecit omnia bene &amp;c.</hi>
+            </p>
+            <p>And thus from the wiſedome of his words let us come to the power of his workes, <hi>Converſando, et conſervando,</hi> con<g ref="char:EOLhyphen"/>ſiſting in his owne converſation, and o<g ref="char:EOLhyphen"/>thers Preſervation.</p>
+            <p>The providence divine ordained three meanes to open unto men the way of truth.</p>
+            <p>
+               <hi>Verbum praecepto, Chriſtum exemplo, Spi<g ref="char:EOLhyphen"/>ritum ſanctum inſpiratione;</hi> the Word to ſpeake, the Spirit to perſwade, and Chriſt himſelfe to lead to the way of life. And this Saint <hi>Auguſtine</hi> ſayes upon the firſt Pſalme, <hi>venit non ſtetit in via peccatorum</hi> he came but ſtood not in the way of ſin<g ref="char:EOLhyphen"/>ners: for he was a Lilly, not <hi>inter ſpinas, ſed ſpinas non habens, quia peccatum non focit, Iacobs</hi> lambes were ſpotted, but he only immaculate. The Lambe of God came without ſinne, to take away the ſins of the world. <hi>In terris viſus eſt vt eſſet ex<g ref="char:EOLhyphen"/>emplo, in coelos levatus eſt ut eſſet patroci<g ref="char:EOLhyphen"/>nio; hic informat ad vitam illic invitat ad gloriam,</hi> ſaith Saint <hi>Bern. ſup. natal. Sanct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:14379:10"/>Victoris.</hi> He dwelt amongſt men by ex<g ref="char:EOLhyphen"/>emplary preſident of perfection, to lead his Saints Militant; he aſcended the hea<g ref="char:EOLhyphen"/>vens to crowne his Saints victorious in the Church Triumphant. That he neuer ſtayned his honour with ſinne <hi>Aquinas</hi> aſſignes a threefold demonſtration.</p>
+            <p>Firſt the end for which hee became Fleſh; to ſatisfie the wrath of God for the ſin of Man.</p>
+            <p>Secondly to proue the verity of his hu<g ref="char:EOLhyphen"/>mane nature, and</p>
+            <p>Thirdly, that every action of his ſhould be our inſtruction. If hee had beene a Sinner, he could not have beene a Savi<g ref="char:EOLhyphen"/>our of others, no not of himſelfe, for the ſoule that ſhould have ſinned ſhould have dyed, <hi>Ezek.</hi> 18.24. Nor ſhould his tran<g ref="char:EOLhyphen"/>greſſion have proved his humane nature, but natures corruption, ſinne being not created of God, but ſuggeſted by the de<g ref="char:EOLhyphen"/>vill: And laſt of all how ſhould his life have beene a light unto our feet, and a lanthorne unto our pathes, if his workes had beene the workes of darkeneſſe? and therefore came he not infected with O<g ref="char:EOLhyphen"/>riginal, and lived vnblemiſhed with actu<g ref="char:EOLhyphen"/>all ſinne, in all converſation according
+<pb n="1" facs="tcp:14379:10"/>to Law. Firſt that he might approve, a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> withall fulfill it, and end it. Secondl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to take from the Iewes all occaſion of o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loquie. Laſtly, to enlarge the ſoules <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his ſervants from the curſe denounced <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gainſt offenders; <hi>that they which belee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ved might be received into the adoption o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſonnes and be made heires of God through Chriſt, Gal.</hi> 4.5. Who is all-ſufficien<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for a great worke, ſo excellent, requiring an emminent agent, and the higheſt per<g ref="char:EOLhyphen"/>fection not <hi>comparativè</hi> as man, but <hi>ab<g ref="char:EOLhyphen"/>ſolutè</hi> as God? Onely hee in whom the wiſedome of the Father and <hi>the fulnes of the Godhead dwelleth bodily.</hi> Hee, that one and the ſame with <hi>Ens primum abſolute perfectum,</hi> containing all perfections, un<g ref="char:EOLhyphen"/>created formally, and created eminently and effectually; having all naturall, mor<g ref="char:EOLhyphen"/>rall and Tranſcedent ſufficiency above all the ſonnes of men: ſo that his ſoule could not be defiled with ſin by reaſon of a three fold ſupportance.</p>
+            <p>Firſt the fulnes of grace, as the God of grace and goodnes.</p>
+            <p>Secondly the conſummation of glory, as the King of glory.</p>
+            <p>Thirdly the Vnity of the Vnion of
+<pb n="14" facs="tcp:14379:11"/>the Deity and humanity in one perſon.</p>
+            <p>What others received <hi>ſecundum ſimili<g ref="char:EOLhyphen"/>tudinem,</hi> he had <hi>ſecundum eſſentiam,</hi> ſay the Schoolemen. Men by participation, he by poſſeſſion; men receiving, Chriſt containing the fulnes of grace <hi>plenitu<g ref="char:EOLhyphen"/>dinem numeroſitatis et perfectionis,</hi> in num<g ref="char:EOLhyphen"/>ber without number, perfection with<g ref="char:EOLhyphen"/>out limitation or meaſure; and therfore his grace by conjuction the eternall word, exceeded all the endowments conferred upon man, with a threefold eminency.</p>
+            <p>Firſt the habits of Vertues inward.</p>
+            <p>Secondly the tranſcient actions out<g ref="char:EOLhyphen"/>ward.</p>
+            <p>Thirdly the effect conſequent, in infi<g ref="char:EOLhyphen"/>nite mercy purchaſing life for all, though all had deſerved death. Here then Sinne in no ſort could enter, for his words, his works himſelf and his ſoule, were full of Grace, and <hi>intus exiſtens prohibet alienum</hi> his righteouſnes could never be eclipſed where the Deity diſplaying in his holy converſation, his glorious beames, did ſhine and breake through the clouds of his humanity, that all might ſee light, to the right way of Salvation, by follow<g ref="char:EOLhyphen"/>ing his ſteps, who is <hi>the Way, the truth,
+<pb facs="tcp:14379:11"/>and the life. Ioh.</hi> 14.6.</p>
+            <p>Saint <hi>Bernard</hi> ſmelling the ſweet ſa<g ref="char:EOLhyphen"/>vour of his Saviours garments, the gar<g ref="char:EOLhyphen"/>ment of Salvation, and robes of his per<g ref="char:EOLhyphen"/>fect righteouſneſſe; the odour of his name ſmelling like <hi>a field whom the Lord hath bleſſed:</hi> he compareth him to a ſlou<g ref="char:EOLhyphen"/>riſhing Vine, deckt with the beauty of the beſt flowers. <hi>Viola humilitatis, Lilie caſtigatis, Roſa paſſionis &amp; charitatis.</hi>
+            </p>
+            <p>His humility ſuted to the Violet, <hi>re<g ref="char:EOLhyphen"/>ſpectu modicae ſaturae, ſitus humilis, dulcis odoris:</hi> his low ſtature in the ſtate of a ſervant, his humble ſeate, on his foot<g ref="char:EOLhyphen"/>ſtoole upon earth, though hee was the King of glory, whoſe throne is above the Heavens, and his name a ſweet odour, <hi>nam oleum effuſum nomen ejus.</hi>
+            </p>
+            <p>His chaſtity, referred to the Lilly, in that it is <hi>alba, ſplendida, tractabilis:</hi> his whiteneſſe, purity, and alacrity to do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good; his cleereneſſe, amiable in coun<g ref="char:EOLhyphen"/>tenance, <hi>intuens omnes fronte ſerena,</hi> his meekneſſe tractable, as the Lilly palpable.</p>
+            <p>But of all that Roſie-red of his bloudy paſſion, which gave unto the world that ſweet ſavour of Salvation, in which with the rareſt clauſe, hee concluded all with
+<pb facs="tcp:14379:12"/>an action of obſervation, admiration, and imitation: <hi>nam perdidat animam ne perdi<g ref="char:EOLhyphen"/>derit obedientiam,</hi> he loſt his life to ſave his obedience, approving himſelfe the ſpot<g ref="char:EOLhyphen"/>leſſe Lambe of God, both in his ingreſſe to the World, conceived of a Virgin by the power of the holy Ghoſt: In his pro<g ref="char:EOLhyphen"/>greſſe in this World, the beames of his holineſſe dazeling with amazement the eyes of the beholders: and in his egreſſe out of this World, though hee were con<g ref="char:EOLhyphen"/>demned with a jury of Iewes, (a Iewiſh jury) as a malefactour; yet both <hi>Pilates</hi> unanſwerable interrogation at his death, <hi>What evill hath he don?</hi> and the peoples affirmative teſtimony of his innocency in his life; concludes that he both in his life and death, was the Lord of life, the ever<g ref="char:EOLhyphen"/>living God, the anchor and authour of all our wel-fare.</p>
+            <p>
+               <hi>Becauſe he hath done all things well;</hi> let therefore all the flockes of Iacob follow the great and good Shepherd of their ſoules. <hi>Viam precepto docentem, exemplo du<g ref="char:EOLhyphen"/>centem,</hi> if the way be long by precept, he hath made it ſhort by example; and ther<g ref="char:EOLhyphen"/>fore ſayth <hi>Lactantius, ſi precipientem ſequ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non poteris, ſequere antecedentem,</hi> ſo trace
+<pb n="17" facs="tcp:14379:12"/>him in his foot-ſteps, that thou mayeſt follow him into the coeleſtiall Paradiſe of Heaven, where he himſelfe is gone before to prepare a <hi>Manſion</hi> for thee.</p>
+            <p>Let thy life be like <hi>the Kings Daughter glorious within,</hi> with a good intention, and faire without, with the beauty of holines, in heavenly converſation; light thy lamp, prepare thy ſelfe by addreſſing thy ſoule in marriage garments, <hi>the robes of righte<g ref="char:EOLhyphen"/>ouſneſſe,</hi> to meet the (nay thy) <hi>Bridegroom</hi> Chriſt Ieſus in the clouds, by walking as himſelfe, hath left himſelfe for an exam<g ref="char:EOLhyphen"/>ple, whoſe praiſe is in the Goſpell, <hi>non plauſu vanitatis, ſed judicio veritatis, non precario, ſed merito;</hi> for <hi>fecit omnia benè.</hi>
+            </p>
+            <p>All time, and tongue would fayle mee, if I ſhould ſeeme to tell all, for <hi>hee hath done all, he hath done all things well.</hi> I will therefore paſſe with the time, from his workes of imitation, to his wonders, which out of the depth of admiration, in this multitude drew commendation. <hi>He hath done all things well, for he hath made the deafe to heare, and the dumbe to ſpeake,</hi> which are <hi>opera conſervationis &amp; reſtaura<g ref="char:EOLhyphen"/>tionis.</hi>
+            </p>
+            <p>Chriſt Ieſus the Wonderfull, filling
+<pb n="18" facs="tcp:14379:13"/>the world with his Wonders, made his miracles to the diſeaſed and poſſeſſed a <hi>reſtauration,</hi> to ſhew himſelfe that great Phiſitian that came downe from heaven (ſayth <hi>Auguſtine</hi>) and that good Sama<g ref="char:EOLhyphen"/>ritane to cure our maladies. To the dead, vivification, to ſhew himſelfe <hi>the reſur<g ref="char:EOLhyphen"/>rection and the life.</hi> To all, the confirma<g ref="char:EOLhyphen"/>tion of his Word, and manifeſtation of his Deitie, and humanity.</p>
+            <p>In the precedent miracle in this Chap<g ref="char:EOLhyphen"/>ter mentioned, when he put his finger into the deafe mans eare, and reſtored him to his hearing; there was <hi>digitus Deitatis &amp; digitus humanitatis,</hi> the one by touching, ſhewing his reall humanity; the other by effectuall working, his All-ſufficient Di<g ref="char:EOLhyphen"/>vinitie.</p>
+            <p>The humane nature was but the effi<g ref="char:EOLhyphen"/>cient inſtrument, the Divine, the effectu<g ref="char:EOLhyphen"/>all Agent, <hi>una ſuccubuit injuriis, altera fulgebat miraculis,</hi> the malady was cured by the one, the miracle ſhewed by the o<g ref="char:EOLhyphen"/>ther; both working together miracu<g ref="char:EOLhyphen"/>louſly; not onely <hi>mira,</hi> things ſtrange to the vulgar apprehenſion, but <hi>miracula,</hi> farre ſurmounting the power of mans hand, both in the matter, and manner.</p>
+            <pb n="19" facs="tcp:14379:13"/>
+            <p> In matter, in ſuch marvellous variety, extending unto ſpirituall ſubſtances, ac<g ref="char:EOLhyphen"/>cording unto that of the Prophet <hi>Zac.</hi> 13 2. <hi>He ſhall cauſe the uncleane ſpirits to de<g ref="char:EOLhyphen"/>part the Land;</hi> accompliſhed when <hi>the Prince of this world was caſt out,</hi> Ioh. 12.31.</p>
+            <p>Heaven, Earth, and Hell confeſſed him the Wonderfull; for at his paſſion the Sun did hide his face, the Earth was moved, the Devill trembled, to ſee death, and hell led captive in triumph.</p>
+            <p>Logicall maxiomes fell downe before him, like Dagon by the Arke of God; for the deafe heard, the dumbe ſpake, the lame walked, and the dead revived, all conſpired againſt <hi>Logicias,</hi> to prove a re<g ref="char:EOLhyphen"/>greſſe, <hi>à privatione ad habitum.</hi>
+            </p>
+            <p>Neither is his wonderfull power ſo cleerely expreſſed in the matter, as in the manner of his working: <hi>ſolo verbo, tem<g ref="char:EOLhyphen"/>poris momento, fine medio, &amp; actu comple<g ref="char:EOLhyphen"/>to;</hi> by a word, <hi>dixit, fecit, juſſit, geſſit,</hi> a word, and a worke; nay, and a wonder in an inſtant. His actions being <hi>contra, preter, &amp; ſupra naturam,</hi> and therfore not circumſcribed as ours, within the diffe<g ref="char:EOLhyphen"/>rence of time; <hi>nam qui fecit tempus est
+<pb n="20" facs="tcp:14379:14"/>ſupra tempus;</hi> but in compleat act, not by degrees growing to perfection, but in a moment, having both inchoation, and conſummation, and that <hi>modo ſine medio,</hi> without helpe, or uſe of men or Angells, or any ſecundary cauſes, <hi>Nam cauſa, prima non aſtringitur ſecundariis;</hi> by the miracu<g ref="char:EOLhyphen"/>lous proceeding without manner, above, and without means. <hi>Architas,</hi> and <hi>Ar<g ref="char:EOLhyphen"/>chimedes,</hi> and all the greateſt Artiſts are de<g ref="char:EOLhyphen"/>barred from that honour, though to be ad<g ref="char:EOLhyphen"/>mired for their rare inventions.</p>
+            <p>
+               <hi>Zoroaſtes, Apollinus,</hi> and all the crue of Magicians cannot compare with his workes; for all their exploits at which the world wondered, by their inveſtiga<g ref="char:EOLhyphen"/>tion of ſympathie, and antipathie, and o<g ref="char:EOLhyphen"/>ther power of peculiar natures; or elſe by deluſion, invocation, or incantation of the helliſh family, (their familiers.)</p>
+            <p>Nay the Devils themſelves cannot para<g ref="char:EOLhyphen"/>lell this part; for although they can work above the capacity of man in imaginary appearance, yet not in reall exiſtence; or if really, tis by application of naturall meanes, yet any thing ſimply miraculous they cannot worke or performe, requiring an action beyond, beſide, the courſe of
+<pb n="21" facs="tcp:14379:14"/>nature, univerſall, under whoſe lawes the vertue and power of creatures is limited with a <hi>nihil ultra.</hi>
+            </p>
+            <p>Onely the man Chriſt, though as man finite, yet as God infinite, he doth <hi>infini<g ref="char:EOLhyphen"/>ta, modo infinito;</hi> and that with a three<g ref="char:EOLhyphen"/>fold excellencie.</p>
+            <p>Firſt, becauſe he is the firſt of all other.</p>
+            <p>Secondly, becauſe he is unlimited.</p>
+            <p>Thirdly, becauſe he is not reſtrained to time, place, matter, or definite manner in his actions; but abſolute, and tranſcen<g ref="char:EOLhyphen"/>dent above all limitation, according to that of <hi>Iob.</hi> 5.9. <hi>He doth things great, un<g ref="char:EOLhyphen"/>ſearchable, and marvellous without number, magna quantitate, inſcrutabilia profundi<g ref="char:EOLhyphen"/>tate,</hi> all with a royalty reſerved unto him<g ref="char:EOLhyphen"/>ſelfe, above the Prophets, Apoſtles, Saints, or Angels; they working wonders as Miniſters, He, as Maſter: they firſt pray<g ref="char:EOLhyphen"/>ing, He, commanding; they by partici<g ref="char:EOLhyphen"/>pation, He, by poſſeſſion; they by grace, He, by nature; they by vertue derived of another, He, by himſelfe abſolute, <hi>per ſe, non aſe:</hi> for <hi>of his Father is given him all power in heaven, and earth.</hi>
+            </p>
+            <p>Laſtly, the end determining the act, doth make his wonders more honourable,
+<pb n="22" facs="tcp:14379:15"/>as being no wayes intended for humane applauſe, nor to detaine men in admira<g ref="char:EOLhyphen"/>tion of idols, as Satans workes of won<g ref="char:EOLhyphen"/>ders; but to draw the world with the Spouſe in the <hi>Canticles,</hi> from the darke<g ref="char:EOLhyphen"/>neſſe of nature, to the bright light of grace, that <hi>all might ſee the ſalvation of God.</hi>
+            </p>
+            <p>In there-view now of this evidence, three ſorts of men are to be condemned.</p>
+            <p>Firſt, thoſe refractory ſpirits which de<g ref="char:EOLhyphen"/>nie his miracles.</p>
+            <p>Secondly, thoſe phanaticall fancies which eſteeme them deluſions, rather done in an imaginary appearance, that reall exiſtence.</p>
+            <p>Laſtly, thoſe blaſphemous creatures which traduce his name, <hi>horreſco referens.</hi> I tremble to utter it, that he was not <hi>Pa<g ref="char:EOLhyphen"/>ſtor ſed depaſtor, non Ductor ſed ſeductor po<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> puli;</hi> againſt all which, the people unani<g ref="char:EOLhyphen"/>mouſly conſpired with one heart and voyce, ſaying, <hi>fecit omnia bene.</hi>
+            </p>
+            <p>Well, let the Atheiſts ſcoffe, the Iewe blaſpheme; but let us fall downe in ad<g ref="char:EOLhyphen"/>miration before this wonderfull Redee<g ref="char:EOLhyphen"/>mer; let him be to other <hi>filius fabri,</hi> bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to us his workes witneſſe <hi>Faber mundi nam fecit omnia.</hi>
+            </p>
+            <pb n="23" facs="tcp:14379:15"/>
+            <p> Neither is he onely eminent above all the Sons of men, in the quantity of his workes, that <hi>he hath doneall,</hi> but moſt in the quality, <hi>that hee hath done all things well.</hi> The Phaenix of Philoſophers not able to diſcerne by the eyes of reaſon, that <hi>quaedam poſſe est impotentiae,</hi> did attribute to God, a power of doing evill: but bet<g ref="char:EOLhyphen"/>ter ſayth the divine Philoſopher, <hi>malè quaerit unde malum efficiatur.</hi>
+            </p>
+            <p>
+               <hi>Auguſtin</hi> affirmes that there is no effici<g ref="char:EOLhyphen"/>cient, but deficient cauſe of evill; and therefore my Text renounceth all imper<g ref="char:EOLhyphen"/>fection from Chriſt, as the moſt abſolute Lord, full of all power, full of all perfe<g ref="char:EOLhyphen"/>ction, and declares to the world in a word his excellency, <hi>He hath done all things:</hi> The adjacent particle <hi>bene,</hi> excluding all defects, all exceſſe (both by which the vertue of perfection is mutilate) inclu<g ref="char:EOLhyphen"/>deth all ſufficiency: So well guided by wiſedome, that in all his workes, envie cannot once taxe them with claudication, either in the inward ſubſtance, or out<g ref="char:EOLhyphen"/>ward circumſtance. Here is more then <hi>Ariſtotles</hi> juſt man, doing <hi>juſtum juſtè &amp; bonum benè,</hi> for he is eſſentiall goodneſſe, <hi>immenſe magnus ſine quantitate, He hath
+<pb n="24" facs="tcp:14379:16"/>done all things, &amp; immenſe bonus ſine quali<g ref="char:EOLhyphen"/>tate, he hath done all things well.</hi>
+            </p>
+            <p>Whatſoever the exquiſite Moraliſt can demand to make a man <hi>tranſeunt,</hi> it is concurrent in this Center, above the de<g ref="char:EOLhyphen"/>grees of compariſon. In others they de<g ref="char:EOLhyphen"/>ſire, in him they cannot but admire his <hi>Scire, velle, &amp; poſſe:</hi> his knowledge om<g ref="char:EOLhyphen"/>niſcient, his will readie ſimply to good<g ref="char:EOLhyphen"/>neſſe, his power omnipotent: the beames of his wiſedome ſhine cleer in his Word, his Goodneſſe in his will, his ſacred con<g ref="char:EOLhyphen"/>verſation on earth did demonſtrate, his power in miracles diſplayes it ſelfe like <hi>a light on a hill.</hi> In all and every of his Workes, all theſe three are inſeparable co<g ref="char:cmbAbbrStroke">̄</g>panions; if he had done all of conſtraint, the honour had belonged rather to the Cogent, then the Agent. If of ignorance, then Fortune, or Fate, or the worthieſt ſoveraigne Providence had withdrawne the commendations; or if like <hi>Iacob,</hi> hal<g ref="char:EOLhyphen"/>ting of a thigh, he had fayled in his pro<g ref="char:EOLhyphen"/>ceedings, he had not done all things well. But he hath not his praiſe by favour, but merit; for he did all things <hi>ſponte, ſcien<g ref="char:EOLhyphen"/>ter, conſtanter.</hi> Freely, for who could command the tranſcendent Majeſty, ſub<g ref="char:EOLhyphen"/>ject
+<pb facs="tcp:14379:16"/>to none? wittingly and in wiſedome, for nothing is hid from the All-ſeeing eie of the Deity, and that without wavering; not variable as a mortall man, but as the coeleſtiall Orbe above the Moone, with an uniforme motion, <hi>rejoycing like a Gy<g ref="char:EOLhyphen"/>ant, to run his courſe.</hi> The end, the per<g ref="char:EOLhyphen"/>fection, all the continuance of his works, will witnes how well hee hath done his office. The end, is to glorifie his Father, to confirme the truth, to redeeme the di<g ref="char:EOLhyphen"/>ſtreſſed ſinner. The perfection of his acti<g ref="char:EOLhyphen"/>ons was compleat, both in ſubſtance, and in circumſtance, <hi>bonum, &amp; benè.</hi> And not like a flaſhing flame for a time, but like the Sun, he finiſhed his race; approving himſelfe to bee the bottomeleſſe well of profoundeſt humility. Here with the wo<g ref="char:EOLhyphen"/>man of <hi>Samaria,</hi> I acknowledge <hi>the Well is deepe, and I have nothing to draw withall;</hi> therefore with touch and taſte, like <hi>Gide<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns</hi> Souldiers, who did <hi>lap,</hi> and not drink of the waters. Leaving the Well, I come to the Well-ſpring, from the action, to th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> agent; in the originall concluded in the laſt word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in our Tranſlation expounded, <hi>He,</hi> in both one, firſt, and laſt; α, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <pb facs="tcp:14379:17"/>
+            <p> In imitation of himſelfe, I have kept himſelfe, as the beſt wine laſt. In the for<g ref="char:EOLhyphen"/>mer part you have ſeene the beames, here is the Sun, <hi>lux:</hi> there the River, here the Fountaine, there the fruit, here the Tree, a tree of everlaſting life; which <hi>Hilary</hi> deſiring to manifeſt unto men in the Para<g ref="char:EOLhyphen"/>diſe of the Scriptures, obſerveth five meanes. Firſt his Name, that he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, anoynted with the oyle of gladneſſe above his fellowes. Secondly, by his birth, not by generation, regenera<g ref="char:EOLhyphen"/>tion, or adoption, but by the power of the holy Ghoſt. Thirdly, by his Nature, one with God. Fourthly, by his power over all things. Fiftly, by his profeſſion, that he is the Way, the Truth, and the life: But my Text points out two more guides to finde out this Agent; his Words, and his Workes: like the two Doves of <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi> leading to a golden branch, not as that for <hi>Aeneas,</hi> to deſcend to hell, but with <hi>Enoch,</hi> and <hi>Elias,</hi> to ſore aloft to Heaven.</p>
+            <p>In his words, <hi>never any ſpoke like him; Vox hominem ſonat ô Deus certe,</hi> God ſpea<g ref="char:EOLhyphen"/>king in the forme of man, nay God ſpea<g ref="char:EOLhyphen"/>king,
+<pb n="27" facs="tcp:14379:17"/>not man. His works inforcing the very Iewes to confeſſe, and ſay, <hi>truly this is the Son of God.</hi> Aske his words, and they will anſwer as himſelfe did to the woman of <hi>Samaria,</hi> He is the Meſſias that ſpea<g ref="char:EOLhyphen"/>keth unto you. Aske with <hi>Iohn</hi> Baptiſt, <hi>Art thou he that ſhould come, or looke we for another?</hi> why his Workes beare witneſſe the Saviour is come, for <hi>the dumbe ſpeake, the deafe heare, the lame walke.</hi> If we con<g ref="char:EOLhyphen"/>ſider theſe helpes, they will plainly deſcry unto us the print of the Deitie, and diſtin<g ref="char:EOLhyphen"/>guiſh the Creator, from the creature. Firſt, <hi>via eminentiae,</hi> he is eminent above all the Iſraelites; not onely as <hi>Saul, higher by the head,</hi> but as omnipotent to impotent, an infinite, to a finite agent; whoſe pow<g ref="char:EOLhyphen"/>er is boundleſſe, for he hath done all.</p>
+            <p>Secondly, <hi>via negationis,</hi> for in his works he never ſtayned his honour with any imperfection: <hi>Solomon in all his roy<g ref="char:EOLhyphen"/>altie was not clothed</hi> with <hi>one of theſe,</hi> for <hi>he hath done all things well.</hi>
+            </p>
+            <p>Thirdly, <hi>via cauſationis,</hi> for onely God is omnipotent to doe all: So that with <hi>Greg.</hi> I may ſay; He is God, not onely <hi>Nuncupater,</hi> as <hi>Moſes</hi> to <hi>Pharaoh, Deus in<g ref="char:EOLhyphen"/>ter omnia,</hi> but <hi>Eſſentialiter, Deus ſuper omnia
+<pb n="28" facs="tcp:14379:18"/>ille opifex mundi melioris origo:</hi> and not on<g ref="char:EOLhyphen"/>ly God, but man, <hi>aequalis patri novum cre<g ref="char:EOLhyphen"/>ans mundum, minor patre perditum reparans mundum, minor patre in forma ſervi, aequa<g ref="char:EOLhyphen"/>lis in forma Dei.</hi> That he was not God a<g ref="char:EOLhyphen"/>lone, his ſighing, weeping, ſpeaking af<g ref="char:EOLhyphen"/>firme; that he was not an imaginary bo<g ref="char:EOLhyphen"/>dy, as the phantaſticall <hi>Manichees</hi> drea<g ref="char:EOLhyphen"/>med, his eating, drinking, ſleeping, tou<g ref="char:EOLhyphen"/>ching, witneſſeth: all which are affecti<g ref="char:EOLhyphen"/>ons of a body naturall. The <hi>Hereticks</hi> that held him meere man, his body palpable confounds: The <hi>Arrians</hi> that held him a meere created Spirit, a Spirit not having fleſh and bones; all his words, workes, and wonders declare, proclaiming to all the world that he is the promiſed Meſſias, in whoſe Perſon, Deitie, and humanity are united: ſo that of this Agent, with <hi>Thomas</hi> I may conclude; he is <hi>Homo De<g ref="char:EOLhyphen"/>us,</hi> and <hi>Deus homo.</hi>
+            </p>
+            <p>In the matter of his actions, I admire the bredth, that <hi>he hath done al;</hi> In the man<g ref="char:EOLhyphen"/>ner his depth, that <hi>he hath done all things well.</hi> This ſacred King of Glory, that he ought to bee had in remembrance, and ſought out of all that love and deſire his ſecond comming, <hi>hath done all things well;</hi>
+               <pb n="29" facs="tcp:14379:18"/>not only to approve himſelf the unmatch<g ref="char:EOLhyphen"/>able God, which is eſſentiall goodnes; but likewiſe by precept to command, by pra<g ref="char:EOLhyphen"/>ctice to leade, and by miraculous actions to draw men on earth, on the way to Heaven; leaving them his Word for their inſtructions, his workes morall, for their imitation, his Word a light, his life a lan<g ref="char:EOLhyphen"/>thorne, <hi>Chriſti vita morum diſciplina.</hi>
+            </p>
+            <p>
+               <hi>Peter</hi> muſt come, <hi>Zacheus</hi> muſt run, and all his Diſciples with an inward affection, and outward converſation, muſt follow the ſteps of his moſt ſacred uprightneſſe: for as Marriners by Sea avoyd the Rocks, directing their courſe not by darke earth, but by the light of Heaven; ſo men who paſſe in the barque of their bodies through the waves of this world, to the ſhoare of reſt, cannot eſcape the ſands of ſin, but by Chriſt Ieſus the only bright light, the un<g ref="char:EOLhyphen"/>doubted ſtar, the ſtern of the Church mili<g ref="char:EOLhyphen"/>tant here, &amp; the haven of the Church Tri<g ref="char:EOLhyphen"/>umphant in Heaven. Wherfore let all the bleſſed Saints who ſet ſayle for the ſalva<g ref="char:EOLhyphen"/>tion of their ſoules, eſteeme his words as the words of truth, imitate his works as perfect holineſſe, with reverent admira<g ref="char:EOLhyphen"/>tion, recounting his wonders as effects of
+<pb n="30" facs="tcp:14379:19"/>his Deitie. To informe the ignorant, there is <hi>verbum ſapientia,</hi> to reforme the ranging ſinner, there is <hi>vitae innocentiae,</hi> to turne our hearts to the living God, there is <hi>digitus divinae potentiae.</hi> In the glaſſe of his Word, ſee the face of your ſoules; it is <hi>ſpeculum animae;</hi> follow his life, it is <hi>viae vitae Auguſtae,</hi> although <hi>Auguſtae, haec iter eſt ſerpens ad magni testa tonantis.</hi> In the re-view of his wonders, take an heart in<g ref="char:EOLhyphen"/>flamed with <hi>Thomas,</hi> and confeſſe, <hi>my Lord, and my God;</hi> onely beware of two dangerous rockes on which many have made ſhipwracke of their ſoules; the one, partiall conceit of their owne perfection, here fell the Phariſees; the other, irreli<g ref="char:EOLhyphen"/>gious Atheiſme, which preſſeth the ſouls of licentious Libertines into Hell; but trace thou vertue in the golden meane, i<g ref="char:EOLhyphen"/>mitating him in well-doing, who did all things well. To do <hi>all things well,</hi> is the Royalty of God, but to do nothing well, is the badge of the Beaſt, and thoſe who become like the beaſts, muſt periſh. Let no man boaſt of perfection, leaſt pride bee his ruine; nor ſell his ſoule to ſinne in the ſight of the Lord, leaſt <hi>the gates of hell pre<g ref="char:EOLhyphen"/>vayle againſt</hi> him, but keepe the middle
+<pb n="31" facs="tcp:14379:19"/>way; from thy naturall imperfection, ſtrive to heavenly perfection; be watch<g ref="char:EOLhyphen"/>full over thy wayes, yet humble in thy thoughts, Heaven hath onely good, Hell onely bad, the earth a mixture of both. If the Browniſt could do all things well, he were to good for the earth; the careleſſe carnall Epicure doth nothing well, there<g ref="char:EOLhyphen"/>fore he is too bad for heaven: The luke<g ref="char:EOLhyphen"/>warme Newter, like the Stoicks <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, who is indifferent for good, or evill, is fit neither for heaven, nor earth; onely thoſe Chriſtians are as <hi>Benjamin, filis dex<g ref="char:EOLhyphen"/>trae,</hi> and <hi>true Iſraelites without guile,</hi> which are <hi>in the valley of viſion;</hi> aſcending, and yet not aſcended; growing up in grace as plants of Gods right hand, bringing forth leaves of good words, and fruits of good workes, not ſeeking for humane applauſe without, or ſelfe partiall conceit to pleaſe themſelves within.</p>
+            <p>Let all therfore from the greateſt Noble in <hi>Iſrael,</hi> to the pooreſt worme in <hi>Iacob</hi> that dwelleth in the duſt, ſtrive with heart and hand, in imitation of his Saviour Chriſt Ieſus, to do <hi>all things well,</hi> that it may go well with them in the day of the Lord. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
